@@ -11,35 +11,34 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
-owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+title: Biobotus
+description: |
+  For the people.
+owner: Biobotus, LLC. # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
+email: info@biobotus.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://biobotus.com" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
-greeting:
-  title: Welcome!  
-  text: I hope you enjoy my collection
+#greeting:
+#  title: Welcome!  
+#  text: I hope you enjoy my collection
 # - title for your blog's featured posts
-features-title: Featured topics
+#features-title: Featured topics
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+#closing-head: Thanks for visiting
+#closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
-  email: /contact/
+  twitter: https://twitter.com/biobotus
+  #github: https://github.com/biobotus
+  #linkedin-square: https://linkedin.com/in/biobotus
+  #facebook-official: https://facebook.com/biobotus
+  #google-plus-square: https://plus.google.com/u/0/+biobotus
+  email: info@biobotus.com
   #flickr:
   #instagram:
   #youtube-square:
@@ -99,7 +98,9 @@ permalink: /:categories/:title.html
 markdown: kramdown
 #sass:
 #  style: compressed
-exclude: ['site.bat','compose.rb','README.md']
+exclude:
+  - README
+  - s3_website.yml
 include: ['_pages','.htaccess']
 defaults:
   - scope:
@@ -119,3 +120,12 @@ defaults:
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
+
+highlighter: pygments
+encoding: utf-8
+
+gems:
+    - jekyll
+    - jekyll-email-protect
+    - jekyll-sitemap
+    - wdm

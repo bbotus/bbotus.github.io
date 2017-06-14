@@ -1,11 +1,21 @@
 # authors
 
-arkadianriver:
-  name: Gary Faircloth
+chris:
+  name: Christopher Suh 
   bio: >
-    Interests: tech writing, programming, science, history.
-    You might also find me playing some PC Ga&mdash;SQUIRREL!
-  disqus_shortname: arkadianriver
-  url: http://arkadianriver.com
-  email: gfair@arkadianriver.com
-  avatar: gar.png
+    Interests: Programming, hockey, games. Always on the
+    lookout for new things to try.
+  disqus_shortname: biobotus 
+  url: http://biobotus.com
+  email: chris@biobotus.com
+  avatar: 
+
+jason:
+  name: Jason Kim 
+  bio: >
+  disqus_shortname: biobotus 
+  url: http://biobotus.com
+  email: jason@biobotus.com
+  avatar: 
+
+
