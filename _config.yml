@@ -121,7 +121,7 @@ defaults:
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
 
-highlighter: pygments
+highlighter: rouge
 encoding: utf-8
 
 gems:
