@@ -1,7 +1,7 @@
 ---
 priority: 0.6
-title: Pulse Oximeter Release Announcement
-excerpt: Biobotus announces release of the JPD-500FBUS
+title: 2nd Generation Bluetooth Pulse Oximeter Release
+excerpt: Biobotus announces release of the second generation JPD-500FBUS
 categories: blog 
 background-image: 
 tags:
