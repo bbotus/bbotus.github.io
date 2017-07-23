@@ -1,6 +1,6 @@
 ---
 priority: 0.6
-title: Pulse Oximeter Release Announcement
+title: JPD-500FBUS Pulse Oximeter Release Announcement
 excerpt: Biobotus announces release of the JPD-500FBUS
 categories: blog 
 background-image: 
