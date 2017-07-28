@@ -2,7 +2,7 @@
 priority: 0.6
 title: Pulse Oximeter
 excerpt: How to Use a Fingertip Pulse Oximeter
-categories: news
+categories: blog
 background-image: 
 tags:
   - oximeter
