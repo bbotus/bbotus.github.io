@@ -2,7 +2,7 @@
 priority: 0.6
 title: Jumper Authorized Distributor
 excerpt: Biobotus announces distribution partnership with Jumper
-categories: blog
+categories: news
 background-image:
 tags:
  - oximeter
