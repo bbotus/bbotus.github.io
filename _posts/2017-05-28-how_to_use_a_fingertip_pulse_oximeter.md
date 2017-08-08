@@ -1,12 +1,14 @@
 ---
-priority: 0.6
 title: Pulse Oximeter
-excerpt: How to Use a Fingertip Pulse Oximeter
-categories: blog
-background-image: 
+date: 2017-05-28 00:00:00 Z
+categories:
+- blog
 tags:
-  - oximeter
-  - directions
+- oximeter
+- directions
+priority: 0.6
+excerpt: How to Use a Fingertip Pulse Oximeter
+background-image: 
 ---
 
 #### Introduction 

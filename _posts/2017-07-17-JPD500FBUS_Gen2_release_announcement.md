@@ -1,13 +1,15 @@
 ---
-priority: 0.6
 title: 2nd Generation Bluetooth Pulse Oximeter Release
-excerpt: Biobotus releases the second generation JPD-500FBUS
-categories: news 
-background-image: 
+date: 2017-07-17 00:00:00 Z
+categories:
+- news
 tags:
-  - oximeter
-  - release
-  - Jumper
+- oximeter
+- release
+- Jumper
+priority: 0.6
+excerpt: Biobotus releases the second generation JPD-500FBUS
+background-image: 
 ---
 
 #### July 17th 2017

@@ -1,7 +1,7 @@
 ---
-key: 4
 title: Products
-permalink: /Products/
+permalink: "/Products/"
+key: 4
 options: fullwidth
 excerpt: Biobotus Products
 image: banner.jpg

@@ -1,15 +1,18 @@
 ---
-priority: 0.6
 title: Jumper Authorized Distributor
-excerpt: Biobotus announces distribution partnership with Jumper
-categories: news
-background-image:
+date: 2017-05-31 00:00:00 Z
+categories:
+- news
 tags:
- - oximeter
- - distributor
- - authorized
- - Jumper
+- oximeter
+- distributor
+- authorized
+- Jumper
+priority: 0.6
+excerpt: Biobotus announces distribution partnership with Jumper
+background-image: 
 ---
+
 #### May 31st 2017
 
 Biobotus is pleased to announce certification as an Authorized Distributor of the Jumper brand of health monitors and devices.  The product family includes personal pulse oximeters, dopplers, and thermometers that align with the Biobotus mission of providing accessible products for home health and wellness.  
