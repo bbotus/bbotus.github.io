@@ -1,7 +1,7 @@
 ---
-key: 2
 title: About Us
-permalink: /AboutUs/
+permalink: "/AboutUs/"
+key: 2
 options: fullwidth
 excerpt: Who is Biobotus
 image: aboutuscollab01.jpg

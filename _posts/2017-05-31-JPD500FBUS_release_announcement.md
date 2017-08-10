@@ -1,14 +1,16 @@
 ---
-priority: 0.6
 title: Pulse Oximeter Release Announcement
-excerpt: Biobotus announces release of the JPD-500FBUS
-categories: news 
-background-image: 
+date: 2017-05-31 00:00:00 Z
+categories:
+- news
 tags:
-  - oximeter
-  - release
-  - Jumper
-  - 2G
+- oximeter
+- release
+- Jumper
+- 2G
+priority: 0.6
+excerpt: Biobotus announces release of the JPD-500FBUS
+background-image: 
 ---
 
 #### May 31st 2017 
