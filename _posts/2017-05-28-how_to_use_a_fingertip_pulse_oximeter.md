@@ -1,8 +1,7 @@
 ---
 title: Pulse Oximeter
 date: 2017-05-28 00:00:00 Z
-categories:
-- blog
+category: blog
 tags:
 - oximeter
 - directions

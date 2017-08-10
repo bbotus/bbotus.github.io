@@ -1,8 +1,7 @@
 ---
 title: Pulse Oximeter Release Announcement
 date: 2017-05-31 00:00:00 Z
-categories:
-- news
+category: news
 tags:
 - oximeter
 - release

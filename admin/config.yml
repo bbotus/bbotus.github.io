@@ -5,27 +5,16 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
 collections:
-  - name: "blog"
-    label: "Blog"
+  - name: "posts"
+    label: "Post"
     folder: "_posts"
     create: true
+    sort: "date:desc"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Excerpt", name: "excerpt", widget: "string"}
-        - {label: "Category", name: "categories:", widget: "string", default: "blog"}
-        - {label: "Background Image", name: "background-image:", widget: "string", default: "images/sample.jpg"}
-        - {label: "Tags", name: "tags", widget: "string", default: "  - sample\n  - tag\n"}
-        - {label: "Body", name: "body", widget: "markdown"}
-  - name: "news"
-    label: "News"
-    folder: "_posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Excerpt", name: "excerpt", widget: "string"}
-        - {label: "Category", name: "categories:", widget: "string", default: "news"}
-        - {label: "Background Image", name: "background-image:", widget: "string", default: "images/sample.jpg"}
+        - {label: "Title", name: "title", widget: "string", default: "your title"}
+        - {label: "Excerpt", name: "excerpt", widget: "string", default: "Short blurb"}
+        - {label: "Category", name: "categories", widget: "string", default: "news"}
+        - {label: "Background Image", name: "background-image:", widget: "string", default: "images/sample.jpg", optional:true}
         - {label: "Tags", name: "tags", widget: "string", default: "  - sample\n  - tag\n"}
         - {label: "Body", name: "body", widget: "markdown"}

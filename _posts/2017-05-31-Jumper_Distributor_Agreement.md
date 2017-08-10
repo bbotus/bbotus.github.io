@@ -1,8 +1,7 @@
 ---
 title: Jumper Authorized Distributor
 date: 2017-05-31 00:00:00 Z
-categories:
-- news
+category: news
 tags:
 - oximeter
 - distributor

@@ -1,8 +1,7 @@
 ---
 title: 2nd Generation Bluetooth Pulse Oximeter Release
 date: 2017-07-17 00:00:00 Z
-categories:
-- news
+category: news
 tags:
 - oximeter
 - release
