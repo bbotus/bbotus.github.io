@@ -12,3 +12,4 @@ Biobotus was founded in [Research Triangle Park](http://www.rtp.org/), [NC](http
 
 If you have further questions, please [Contact Us](https://www.biobotus.com/contactus).
 
+![image testing](https://github.com/bbotus/biobotus/blob/master/images/banner.jpg)
