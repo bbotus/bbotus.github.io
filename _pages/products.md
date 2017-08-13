@@ -3,7 +3,7 @@ title: Products
 permalink: "/Products/"
 key: 4
 options: fullwidth
-excerpt: Biobotus Products
+excerpt: Our Products: Released and Under Development
 image: banner.jpg
 background-image: banner.jpg
 ---
