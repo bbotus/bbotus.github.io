@@ -12,4 +12,4 @@ Biobotus was founded in [Research Triangle Park](http://www.rtp.org/), [NC](http
 
 If you have further questions, please [Contact Us](https://www.biobotus.com/contactus).
 
-Biobotus takes your privacy seriously.  Personally identifiable information is not used and HIPAA regulations are followed.  We believe in transparency with our practices with our partners and customers.  Review our [Pricacy Policy](https://www.biobotus.com/privacy).
+Biobotus takes your privacy seriously.  Personally identifiable information is not used and HIPAA regulations are followed.  We believe in transparency with our practices with our partners and customers.  Review our [Privacy Policy](https://www.biobotus.com/privacy).
