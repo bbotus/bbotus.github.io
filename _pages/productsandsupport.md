@@ -1,5 +1,5 @@
 ---
-title: Products and Support
+title: Products & Tech Support
 permalink: "/Products/"
 key: 4
 options: fullwidth
