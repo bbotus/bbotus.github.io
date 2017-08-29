@@ -70,3 +70,5 @@ Users Only of 15 Years or Older
 
 Our Site and Application are designed and intended for those who have reached 15 years of age. By using our Site or Application, you affirm that you are at least 15 years of age or older. We are not liable for any damages that may result from a user’s misrepresentation of age.
 No one under age 13 is authorized to submit or post any information, including personally identifying information, on our Site or Application. Under no circumstances may anyone under age 13 use our Site or Application individually. Parents or legal guardians of children under 13 cannot agree to these Terms on their behalf to use the Site or Application for their child to use the Site or Application individually. Parents may use the Site and Application to share their child’s information, but a child under the age of 13 may not use the Site or Application themselves.
+
+Last Updated: August 31, 2017
