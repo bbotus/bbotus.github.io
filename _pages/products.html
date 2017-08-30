@@ -8,19 +8,19 @@ image: proddevsketch_a_01.jpg
 background-image: proddevsketch_b_01.jpg
 ---
 
- {%  if site.posts %}{%
+ {%  if site.ppages %}{%
       if site.tags.featured %}
   <hr style="margin:0 0 1em 0;" />
   <h4>Featured</h4>
-  <ul class="post-list">{%
-        for post in site.categories.news %}{%
-          if post.tags contains "featured" %}
+  <ul class="ppage-list">{%
+        for ppage in site.categories.products %}{%
+          if ppage.tags contains "featured" %}
       <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <a class="ppage-link" href="{{ ppage.url | prepend: site.baseurl }}">
           <div class="container">
-            <p class="post-title">{{ post.title }}</p>
-            <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
-            <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
+            <p class="ppage-title">{{ ppage.title }}</p>
+            <p class="ppage-date">{{ ppage.date | date: "%Y-%m-%d" }}</p>
+            <p class="ppage-desc">{{ ppage.excerpt | strip_html | truncatewords: 12 }}</p>
           </div>
         </a>
       </li>{%
@@ -32,16 +32,16 @@ background-image: proddevsketch_b_01.jpg
 
     <ul style="list-style-type: none;">{%
       assign p = '9999'
-%}{%  for post in site.categories.news
-%}{%    assign n = post.date | date: "%Y"
+%}{%  for post in site.categories.products
+%}{%    assign n = ppage.date | date: "%Y"
 %}{%    if n != p
 %}{%      assign p = n
 %}
       <br /><h5>{{ n }}</h5>{%
         endif %}
-      <li style="padding-bottom: 6px;"><code>[{{ post.date | date: "%d %b" }}]</code>&nbsp;
-        <a href="{{ post.url }}" style="white-space: nowrap;"><b>{{ post.title }}</b></a>&nbsp;
-          {{ post.excerpt | strip_html | truncatewords: 12 }}</li>{%
+      <li style="padding-bottom: 6px;"><code>[{{ ppage.date | date: "%d %b" }}]</code>&nbsp;
+        <a href="{{ ppage.url }}" style="white-space: nowrap;"><b>{{ ppage.title }}</b></a>&nbsp;
+          {{ ppage.excerpt | strip_html | truncatewords: 12 }}</li>{%
       endfor
 %}
     </ul>
