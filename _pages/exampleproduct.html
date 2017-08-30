@@ -1,3 +1,26 @@
+---
+title: Contact Us
+permalink: "/exampleproduct/"
+key: 0
+options: nolanding
+excerpt: Get in Touch - We are Listening
+background-image: wearelistening02.jpg
+script-includes:
+- "/js/jquery.validate.min.js"
+script: |
+  $("#sendemail").validate({
+    rules: {
+      country: {
+        required: true,
+        equalTo: "#type3"
+      }
+    },
+    messages: {
+      country: "Specify a three-letter lowercase name."
+    }
+  });
+---
+
 <!DOCTYPE html>
 <!--
   Original Design: Spectral by HTML5 UP
