@@ -3,7 +3,7 @@ title: Our Products
 permalink: "/Products/"
 key: 4
 options: fullwidth
-excerpt: Our Products - Released and Under Development
+excerpt: Our Products - Released and Under Development (orly)
 image: proddevsketch_a_01.jpg
 background-image: proddevsketch_b_01.jpg
 ---
@@ -32,7 +32,7 @@ background-image: proddevsketch_b_01.jpg
 
     <ul style="list-style-type: none;">{%
       assign p = '9999'
-%}{%  for post in site.categories.products
+%}{%  for ppage in site.categories.products
 %}{%    assign n = ppage.date | date: "%Y"
 %}{%    if n != p
 %}{%      assign p = n
