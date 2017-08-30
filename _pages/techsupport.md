@@ -1,6 +1,6 @@
 ---
 title: Technical Support
-permalink: "/support/"
+permalink: "/techsupport/"
 key: 5
 options: fullwidth
 excerpt: Technical Support and Documentation
