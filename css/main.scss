@@ -1005,7 +1005,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.big {
 			font-size: _font(ctrl-bttn-bigsize);
 		}
-<!-- changed from accent6 to accent1 -->
+		
+		<!-- changed from accent6 to accent1 -->
+		
 		&.special {
 			background-color: _palette(accent1, bg);
 			box-shadow: none !important;
