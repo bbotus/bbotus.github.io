@@ -3,24 +3,24 @@ title: Our Products
 permalink: "/Products/"
 key: 4
 options: fullwidth
-excerpt: Our Products - Released and Under Development 
+excerpt: Our Products - Released and Under Development (hmm)
 image: proddevsketch_a_01.jpg
 background-image: proddevsketch_b_01.jpg
 ---
 
- {%  if site.page %}{%
+ {%  if site.post %}{%
       if site.tags.featured %}
   <hr style="margin:0 0 1em 0;" />
   <h4>Featured</h4>
-  <ul class="page-list">{%
-        for page in site.categories.products %}{%
-          if page.tags contains "featured" %}
+  <ul class="post-list">{%
+        for post in site.categories.products %}{%
+          if post.tags contains "featured" %}
       <li>
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
           <div class="container">
-            <p class="page-title">{{ page.title }}</p>
-            <p class="page-date">{{ page.date | date: "%Y-%m-%d" }}</p>
-            <p class="page-desc">{{ page.excerpt | strip_html | truncatewords: 12 }}</p>
+            <p class="post-title">{{ post.title }}</p>
+            <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+            <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
           </div>
         </a>
       </li>{%
@@ -32,16 +32,16 @@ background-image: proddevsketch_b_01.jpg
 
     <ul style="list-style-type: none;">{%
       assign p = '9999'
-%}{%  for page in site.categories.products
-%}{%    assign n = page.date | date: "%Y"
+%}{%  for post in site.categories.products
+%}{%    assign n = post.date | date: "%Y"
 %}{%    if n != p
 %}{%      assign p = n
 %}
       <br /><h5>{{ n }}</h5>{%
         endif %}
-      <li style="padding-bottom: 6px;"><code>[{{ page.date | date: "%d %b" }}]</code>&nbsp;
-        <a href="{{ page.url }}" style="white-space: nowrap;"><b>{{ page.title }}</b></a>&nbsp;
-          {{ page.excerpt | strip_html | truncatewords: 12 }}</li>{%
+      <li style="padding-bottom: 6px;"><code>[{{ post.date | date: "%d %b" }}]</code>&nbsp;
+        <a href="{{ post.url }}" style="white-space: nowrap;"><b>{{ post.title }}</b></a>&nbsp;
+          {{ post.excerpt | strip_html | truncatewords: 12 }}</li>{%
       endfor
 %}
     </ul>
