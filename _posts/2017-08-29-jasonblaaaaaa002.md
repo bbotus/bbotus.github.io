@@ -1,5 +1,5 @@
 ---
-title: JPD-500FBUS Pulse Oximeter Release Announcement
+title: JPD-500FBUS Product Page
 date: 2017-06-01 00:00:00 Z
 category: products
 tags:
@@ -8,7 +8,7 @@ tags:
 - Jumper
 - 2G
 priority: 0.6
-excerpt: Biobotus announces release of the JPD-500FBUS
+excerpt: Our Best Selling Pulse Oximeter with Bluetooth Connectivity
 background-image: 
 ---
 
