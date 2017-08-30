@@ -19,7 +19,6 @@ background-image: proddevsketch_b_01.jpg
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
           <div class="container">
             <p class="post-title">{{ post.title }}</p>
-            <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
             <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
           </div>
         </a>
