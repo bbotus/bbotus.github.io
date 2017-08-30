@@ -7,7 +7,6 @@ tags:
 - release
 - Jumper
 - 2G
-- featured
 priority: 0.6
 excerpt: Biobotus announces release of the JPD-500FBUS
 background-image: 
