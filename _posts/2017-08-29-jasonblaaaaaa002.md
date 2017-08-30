@@ -1,7 +1,7 @@
 ---
 title: JPD-500FBUS Pulse Oximeter Release Announcement
 date: 2017-06-01 00:00:00 Z
-category: products
+category: news
 tags:
 - oximeter
 - release
