@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: "/contactus/"
+permalink: "/contact/"
 key: 6
 options: nolanding
 excerpt: Get in Touch - We are Listening
@@ -8,17 +8,7 @@ background-image: wearelistening02.jpg
 script-includes:
 - "/js/jquery.validate.min.js"
 script: |
-  $("#sendemail").validate({
-    rules: {
-      country: {
-        required: true,
-        equalTo: "#type3"
-      }
-    },
-    messages: {
-      country: "Specify a three-letter lowercase name."
-    }
-  });
+  $("#sendemail").validate();
 ---
 
 <section>
@@ -40,10 +30,6 @@ script: |
         <textarea required name="textbody" id="textbody" placeholder="Enter your message" rows="6"></textarea>
       </div>
       <div class="12u$">
-        <input type="text" name="country" id="country" value=""
-        placeholder="What animal is this emoji? =^.^=" />
-      </div>
-      <div class="12u$">
         <ul class="actions">
           <li><input type="submit" value="Send Message" class="special" /></li>
         </ul>
@@ -54,4 +40,5 @@ script: |
     <input type="hidden" name="failure"
            value="{{ '/contact-failure' | prepend: site.baseurl | prepend: site.url }}" />
   </form>
+
 </section>

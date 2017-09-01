@@ -21,17 +21,17 @@ defaults:
     path: _drafts
   values:
     layout: post
-description: 'Accessible Digital Home Health Products
-
-'
-owner: Biobotus, LLC.
+description: 'Accessible Digital Home Health Products'
+owner:
+  name: Biobotus, LLC.
+  email: info@biobotus.com
+  url: http://biobotus.com
 first_published: 2017
-email: info@biobotus.com
 baseurl: ''
 url: http://biobotus.com
 social:
   twitter: https://twitter.com/biobotus
-  email: info@biobotus.com
+  email: /contact/
 compose:
   editor: subl
   extension: md
