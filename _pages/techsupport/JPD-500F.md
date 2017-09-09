@@ -4,7 +4,7 @@ permalink: "/techsupport/JPD-500F/"
 key: 0
 options: fullwidth
 excerpt: Frequenly Asked Questions, Technical Support, and Documentation
-image: JPD-500F with finger01.png
+background-image: JPD-500F with finger01.png
 ---
 
 ### 1. Bluetooth connectivity?
