@@ -7,7 +7,7 @@ excerpt: Technical Support and Documentation
 image: JPD-500F with finger01.png
 ---
 
-JPD-500F FREQUENTLY ASKED QUESTIONS
+### JPD-500F FREQUENTLY ASKED QUESTIONS
 
 1. Bluetooth connectivity?
 2. What is a Pulse Oximeter?
