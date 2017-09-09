@@ -1,5 +1,5 @@
 ---
-title: Technical Support for JPD-500F
+title: JPD-500F Technical Support
 permalink: "/techsupport/JPD-500F"
 key: 0
 options: fullwidth
