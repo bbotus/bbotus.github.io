@@ -1,6 +1,6 @@
 ---
 title: JPD-500F Technical Support
-permalink: "/techsupport/JPD-500F"
+permalink: "/techsupport/JPD-500F/"
 key: 0
 options: fullwidth
 excerpt: Technical Support and Documentation
