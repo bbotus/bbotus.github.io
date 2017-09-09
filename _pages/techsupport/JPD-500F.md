@@ -5,7 +5,7 @@ key: 0
 options: fullwidth, nomenu, nolanding
 excerpt: Technical Support FAQs and Documentation Requests
 image: 
-background-image: 500F2w500F1banner04.png
+background-image: 500F2w500F1banner05.png
 ---
 ### 1. Bluetooth connectivity?
 ### 2. What is a Pulse Oximeter?
