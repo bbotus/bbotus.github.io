@@ -4,8 +4,8 @@ permalink: "/techsupport/JPD-500F/"
 key: 0
 options: fullwidth, nomenu, nolanding
 excerpt: Technical Support FAQs and Documentation Requests
-image: JPD-500F with finger01.png
-background-image: JPD-500F2 with finger01.png
+image: JPD500F with finger01.png
+background-image: JPD500F2 with finger01.png
 ---
 <img src="/images/JPD500F2 with finger01.png" alt="JPD500F2finger" style="width:128px;height:128px;">
 ### 1. Bluetooth connectivity?
