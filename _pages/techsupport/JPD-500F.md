@@ -1,7 +1,7 @@
 ---
 title: Technical Support for JPD-500F
 permalink: "/techsupport/JPD-500F"
-key: 5
+key: 0
 options: fullwidth
 excerpt: Technical Support and Documentation
 image: JPD-500F with finger01.png
