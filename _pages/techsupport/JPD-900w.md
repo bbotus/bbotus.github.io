@@ -8,7 +8,7 @@ image:
 background-image: 900w-banner-05.png
 ---
 ### 1. Does this device have bluetooth connectivity?
-We are Biobotus have a mission to digitize all of our products.  Our development team is working on a blood pressure monitoring device with bluetooth connectivity and a complementary mobile app.
+We at Biobotus have a mission unlock the full functionality of all of our products by digitization.  Our development team is working on a blood pressure monitoring device with bluetooth connectivity and a complementary mobile app--available soon for iOS and Android.
 
 ### 2. What??
 ### 3. Why ??
