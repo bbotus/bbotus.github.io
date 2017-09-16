@@ -15,7 +15,7 @@ background-image: 500F2w500F1banner05.png
 * Integrated with SpO2 probe and processing display module
 * Bright OLED Multi-color Display with Adjustable Brightness
 * Easy One-Button Use
-* Lower Power Consumption with Automatic Power-Off (after 5 seconds off finger)
+* Low Power Consumption with Automatic Power-Off (after 5 seconds off finger)
 
 * SpO2 Measuring Range: 35% - 100% (+/- 1%)
 * Pulse Rate Measuring Range: 25 BPM - 250 BPM (+/- 1BPM)
