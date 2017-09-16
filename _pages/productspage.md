@@ -12,4 +12,4 @@ Please [Contact Us](https://www.biobotus.com/contactus) for wholesale inquires.
 
 ### [Pulse Oximeter](https://www.biobotus.com/products/jpd-500f)
 ### [Dual Mode Thermometer](https://www.biobotus.com/products/jpd-900w)
-### [Blood Pressure Monitor](https://www.biobotus.com/products/jpd-401)
+### [Blood Pressure Monitor](https://www.biobotus.com/products/jpd-fr401)
