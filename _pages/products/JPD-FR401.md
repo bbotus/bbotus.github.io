@@ -7,10 +7,22 @@ excerpt: JPD-FR401 Product Information
 image: 
 background-image: FR401-banner-02.jpg
 ---
-### 1. Does this device have bluetooth connectivity?
-We at Biobotus have a mission unlock the full functionality of all of our products by digitization.  Our development team is working on a thermometer with bluetooth connectivity and a complementary mobile app--available soon for iOS and Android.
+### Product Overview
+* Small, lightweight
+* Non-invasive fingertip measurement
+* High-Quality Build
+* Bright OLED Multi-color Display with Adjustable Brightness
+* Simple One-Button Use
+* Low Power Consumption with Automatic Power-Off (after 5 seconds off finger)
+* Bluetooth Connectivity
+* Mobile App Available for iOS and Android
 
-### 2. What??
-### 3. Why ??
-### 4. Other Stuff
+### Product Specifications
+* SpO2 Measuring Range: 35% - 100% (+/- 1%)
+* Pulse Rate Measuring Range: 25 BPM - 250 BPM (+/- 1BPM)
+* Integrated SpO2 Probe and Processing Display Module
+* Device Dimensions: 62mm X 37mm X 32mm
+
+If you have questions about the product, requests for technical support, or have wholesale inquires, please [Contact Us](https://www.biobotus.com/contactus).
+
 
