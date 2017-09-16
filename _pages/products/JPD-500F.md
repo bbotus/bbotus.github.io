@@ -8,7 +8,7 @@ image:
 background-image: 500F2w500F1banner05.png
 ---
 
-<a href="{{ '/products/' | prepend: site.baseurl }}" class="button fit special">Buy Now</a>
+<a href="{{ http://a.co/c9zPD8G }}" class="button fit special">Buy Now</a>
 
 * Small, lightweight, High-Quality Build
 * Non-invasive fingertip measurement
