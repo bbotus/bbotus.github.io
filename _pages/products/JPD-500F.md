@@ -21,8 +21,7 @@ background-image: 500F2w500F1banner05.png
 * Pulse Rate Measuring Range: 25 BPM - 250 BPM (+/- 1BPM)
 * Device Dimensions: 62mm X 37mm X 32mm
 
-Questions
+If you have questions about the product, requests for technical support, or have wholesale inquires, please [Contact Us](https://www.biobotus.com/contactus).
 ### 1. Bluetooth connectivity?
 ### 4. Other Stuff
 
-<a href="{{ '/products/' | prepend: site.baseurl }}" class="button fit special">Buy Now</a>
