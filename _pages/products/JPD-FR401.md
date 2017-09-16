@@ -22,5 +22,5 @@ background-image: FR401-banner-02.jpg
 * 20 Reading Data Storage
 
 If you have questions about the product, requests for technical support, or have wholesale inquires, please 
-<a href="https://www.biobotus.com/contactus" class="button fit special">Buy Now</a>
+<a href="https://www.biobotus.com/contactus" class="button fit special">Contact Us</a>
 
