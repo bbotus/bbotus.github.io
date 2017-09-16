@@ -14,7 +14,7 @@ background-image: 500F2w500F1banner05.png
 * Non-invasive fingertip measurement
 * Integrated with SpO2 probe and processing display module
 * Bright OLED Multi-color Display with Adjustable Brightness
-* Easy One-Button Use
+* Simple One-Button Use
 * Low Power Consumption with Automatic Power-Off (after 5 seconds off finger)
 
 * SpO2 Measuring Range: 35% - 100% (+/- 1%)
