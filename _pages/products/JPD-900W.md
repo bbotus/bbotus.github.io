@@ -1,9 +1,9 @@
 ---
-title: JPD-900W Blood Pressure Monitor Technical Support
+title: JPD-900W Blood Pressure Monitor
 permalink: "/products/JPD-900W/"
 key: 0
 options: fullwidth, nomenu, nolanding
-excerpt: Technical Support FAQs and Documentation Requests
+excerpt: JPD-900w Product Descripton
 image: 
 background-image: 900w-banner-04.png
 ---
