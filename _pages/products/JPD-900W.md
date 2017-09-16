@@ -24,4 +24,5 @@ background-image: 900w-banner-04.png
 * Cuff Size: 135 mm X 195 mm
 * 90 Reading Data Storage with Time/Date
 
-If you have questions about the product, requests for technical support, or have wholesale inquires, please [Contact Us](https://www.biobotus.com/contactus).
+If you have questions about the product, requests for technical support, or have wholesale inquires, please 
+<a href="https://www.biobotus.com/contactus" class="button fit special">Buy Now</a>
