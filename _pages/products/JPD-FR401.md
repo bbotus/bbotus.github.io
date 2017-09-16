@@ -3,7 +3,7 @@ title: JPD-FR401 Dual-Mode Infrared Thermometer
 permalink: "/products/JPD-FR401/"
 key: 0
 options: fullwidth, nomenu, nolanding
-excerpt: JPD-FR401 Product Information
+excerpt: Product Information
 image: 
 background-image: FR401-banner-02.jpg
 ---
