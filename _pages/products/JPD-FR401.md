@@ -1,6 +1,6 @@
 ---
 title: JPD-FR401 Thermometer Technical Support
-permalink: "/techsupport/JPD-FR401/"
+permalink: "/products/JPD-FR401/"
 key: 0
 options: fullwidth, nomenu, nolanding
 excerpt: Technical Support FAQs and Documentation Requests
