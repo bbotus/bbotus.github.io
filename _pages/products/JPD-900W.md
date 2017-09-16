@@ -1,6 +1,6 @@
 ---
 title: JPD-900W Blood Pressure Monitor Technical Support
-permalink: "/techsupport/JPD-900W/"
+permalink: "/products/JPD-900W/"
 key: 0
 options: fullwidth, nomenu, nolanding
 excerpt: Technical Support FAQs and Documentation Requests
