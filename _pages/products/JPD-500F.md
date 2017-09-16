@@ -7,7 +7,8 @@ excerpt: JPD-500F Product Information
 image: 
 background-image: 500F2w500F1banner05.png
 ---
-<li><a href="{{ '/products/' | prepend: site.baseurl }}" class="button fit special">See Our Products</a></li>
+
+<a href="{{ '/products/' | prepend: site.baseurl }}" class="button fit special">See Our Products</a>
 
 ### 1. Bluetooth connectivity?
 ### 2. What is a Pulse Oximeter?
