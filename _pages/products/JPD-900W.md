@@ -3,7 +3,7 @@ title: JPD-900W Blood Pressure Monitor
 permalink: "/products/JPD-900W/"
 key: 0
 options: fullwidth, nomenu, nolanding
-excerpt: Product Descripton
+excerpt: Product Information
 image: 
 background-image: 900w-banner-04.png
 ---
