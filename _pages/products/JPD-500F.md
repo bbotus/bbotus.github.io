@@ -1,6 +1,6 @@
 ---
 title: JPD-500F Pulse Oximeter Technical Support
-permalink: "/techsupport/JPD-500F/"
+permalink: "/products/JPD-500F/"
 key: 0
 options: fullwidth, nomenu, nolanding
 excerpt: Technical Support FAQs and Documentation Requests
