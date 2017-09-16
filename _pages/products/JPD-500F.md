@@ -1,9 +1,9 @@
 ---
-title: JPD-500F Pulse Oximeter Technical Support
+title: JPD-500F Bluetooth Pulse Oximeter
 permalink: "/products/JPD-500F/"
 key: 0
 options: fullwidth, nomenu, nolanding
-excerpt: Technical Support FAQs and Documentation Requests
+excerpt: Product Information
 image: 
 background-image: 500F2w500F1banner05.png
 ---
