@@ -1,9 +1,9 @@
 ---
-title: JPD-FR401 Thermometer Technical Support
+title: JPD-FR401 Dual-Mode Infrared Thermometer
 permalink: "/products/JPD-FR401/"
 key: 0
 options: fullwidth, nomenu, nolanding
-excerpt: Technical Support FAQs and Documentation Requests
+excerpt: Product Information
 image: 
 background-image: FR401-banner-02.jpg
 ---
