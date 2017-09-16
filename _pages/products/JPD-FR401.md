@@ -21,6 +21,6 @@ background-image: FR401-banner-02.jpg
 * Ear-Mode Measuring Range: 0.0℃– 100.0℃ (0.2℃)
 * 20 Reading Data Storage
 
-If you have questions about the product, requests for technical support, or have wholesale inquires, please [Contact Us](https://www.biobotus.com/contactus).
-
+If you have questions about the product, requests for technical support, or have wholesale inquires, please 
+<a href="https://www.biobotus.com/contactus" class="button fit special">Buy Now</a>
 
