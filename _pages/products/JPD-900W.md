@@ -9,18 +9,19 @@ background-image: 900w-banner-04.png
 ---
 ### Product Overview
 * Small, lightweight
-* Non-invasive fingertip measurement
+* Non-invasive Wrist Measurement
 * High-Quality Build
-* Bright OLED Multi-color Display with Adjustable Brightness
-* Simple One-Button Use
-* Low Power Consumption with Automatic Power-Off (after 5 seconds off finger)
-* Bluetooth Connectivity
-* Mobile App Available for iOS and Android
+* Large, Easy-to-Read LCD Display
+* Low Power Consumption with 1 Minute Automatic Shutdown
+* Durable Acrylic Faceplate
 
 ### Product Specifications
-* SpO2 Measuring Range: 35% - 100% (+/- 1%)
-* Pulse Rate Measuring Range: 25 BPM - 250 BPM (+/- 1BPM)
-* Integrated SpO2 Probe and Processing Display Module
-* Device Dimensions: 62mm X 37mm X 32mm
+* Blood Pressure Measuring Range: 30 mmHg - 280 mmHg (+/- 3 mmHg)
+* Pulse Measuring Range: 25 BPM - 250 BPM (+/- 5%)
+* Oscillometric Measurement Method with Auto-Inflation
+* Fuzzy Logic
+* Device Dimensions: 78mm X 78mm X 35mm
+* Cuff Size: 135 mm X 195 mm
+* 90 Reading Data Storage with Time/Date
 
 If you have questions about the product, requests for technical support, or have wholesale inquires, please [Contact Us](https://www.biobotus.com/contactus).
