@@ -8,7 +8,8 @@ image: proddevsketch_a_01.jpg
 background-image: proddevsketch_b_01.jpg
 ---
 
-## Wholesale Inquires??? Please [Contact Us](https://www.biobotus.com/contactus).
+If you have questions about the product, requests for technical support, or have wholesale inquires: 
+<a href="https://www.biobotus.com/contactus" class="button fit special">Please Contact us</a>
 
 ### [Pulse Oximeter](https://www.biobotus.com/products/jpd-500f)
 ### [Dual Mode Thermometer](https://www.biobotus.com/products/jpd-900w)
