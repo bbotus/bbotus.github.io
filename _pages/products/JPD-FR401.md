@@ -17,8 +17,8 @@ background-image: FR401-banner-02.jpg
 * Low Battery Consumption with 10 second Automatic Shutdown
 
 ### Product Specifications
-* Forehead-Mode Measuring Range: 32.0℃– 42.2℃ (± 0.3℃)
-* Ear-Mode Measuring Range: 0.0℃– 100.0℃ (0.2℃)
+* Forehead-Mode Measuring Range: 32.0℃ – 42.2℃ (± 0.3℃)
+* Ear-Mode Measuring Range: 0.0℃ – 100.0℃ (0.2℃)
 * 20 Reading Data Storage
 
 If you have questions about the product, requests for technical support, or have wholesale inquires:
