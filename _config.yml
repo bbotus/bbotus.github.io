@@ -49,7 +49,7 @@ include:
 empty_array: []
 highlighter: rouge
 encoding: utf-8
-gems:
+plugins:
 - jekyll
 - jekyll-email-protect
 - jekyll-sitemap
